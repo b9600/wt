@@ -95,7 +95,7 @@ def assemble(days):
             f.write(key + ":\n")
 
             if len(value) > 0:
-                if value[0] == "sick":
+                if value[0].lower() == "sick":
                     days_off += 1
                     f.write("\n")
                     for i in value:
