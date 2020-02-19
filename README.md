@@ -12,7 +12,7 @@ Now, while I did strip the script of all the juicy personal info and modify it a
 
 ### Usage
 
-Clone this to wherever you want it on your filesystem. It might make sense to add an alias to your .bash_aliases and statically pass the script a notes file you change every week. At least, that's how I do it.
+Clone this to wherever you want it on your filesystem. It might make sense to add an alias to your `.bash_aliases` and statically pass the script a notes file you change every week. At least, that's how I do it.
 
 `alias wt="<wt_dir>/wt.py <notes_file>"`
 
@@ -22,7 +22,7 @@ __Example:__
 
 `./wt.py ~/notes`
 
-Note: It's sensible to adjust the NAME variable in the script, as it will be used to form the filename.
+Note: It's sensible to adjust the `NAME` variable in the script, as it will be used to form the filename.
 
 ### Syntax
 
