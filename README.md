@@ -1,4 +1,4 @@
-## wt.py - work tracker
+## wt.py - work week tracking tool
 
 I created this little tool during my second year as an IT apprentice. It takes in a file containing notes on what you did on each day and assembles a somewhat nicely formatted file, ready to be uploaded to the IHK servers.
 
